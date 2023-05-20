@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y Github de Platzi
 * Reglas
 * Indumentaria
 * Equipamiento
+* Creado por el increíble Joel
 
 Y como recordatorio **Este README.md es un relajo**. Diseñado para aprender. No se lo tomen en serio y si quieren añadir mejoras hagan pullrequest.
